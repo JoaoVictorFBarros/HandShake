@@ -71,5 +71,4 @@ O handshake TCP é crucial porque:
 - **Sincronização**: Permite que cliente e servidor sincronizem seus números de sequência e reconhecimento, assegurando que ambos estejam prontos para a troca de dados.
 - **Estabelecimento de Parâmetros**: Define parâmetros de conexão essenciais antes que a transmissão de dados comece.
 - **Prevenção de Conexões Perdidas**: O processo de três etapas ajuda a prevenir conexões que possam ser iniciadas erroneamente devido a pacotes duplicados ou atrasados na rede.
-   python client.py
    ```
